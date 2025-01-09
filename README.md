@@ -6,3 +6,9 @@ This is a course about Python for economist.
 2. Joaquin Ramirez
 3. Maria Vasquez
 4. Anderson Aguila
+
+## Movies
+1. Openheimer
+2. Blade Runner
+3. Django
+4. Búsqueda implacable
